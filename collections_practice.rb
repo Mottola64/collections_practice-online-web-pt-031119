@@ -21,3 +21,6 @@ def reverse_array(array)
   reversed = array.reverse
   return reversed
 end
+
+def kesha_maker
+  kesha = []
